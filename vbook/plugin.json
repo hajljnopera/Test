@@ -7,10 +7,10 @@
       {
         "name": "HentaiNexus",
         "author": "hajljn",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sangtacviet/plugin.zip		",
+        "path": "https://raw.githubusercontent.com/hajljnopera/Test/master/vbook/hentainexus/plugin.zip",
         "version": 1,
         "source": "https://hentainexus.com",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sangtacviet/icon.png		",
+        "icon": "https://raw.githubusercontent.com/hajljnopera/Test/master/vbook/hentainexus/icon.png",
         "description": "Đọc truyện trên trang hentainexus.com"
       }
 	]
