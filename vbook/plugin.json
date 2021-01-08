@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "author": "Hai Lin",
+        "description": "Just a test"
+    },
+    "data": [
+      {
+        "name": "HentaiNexus",
+        "author": "hajljn",
+        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sangtacviet/plugin.zip		",
+        "version": 1,
+        "source": "https://hentainexus.com",
+        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sangtacviet/icon.png		",
+        "description": "Đọc truyện trên trang hentainexus.com"
+      }
+	]
+}
